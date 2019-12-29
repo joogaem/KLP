@@ -1,5 +1,9 @@
 # KLP
 
+'크롤링을 통한 데이터 수집과 마케팅적 활용방안'
+
+인턴사원으로서 준비한 개인프로젝트의 피피티와 관련 코드및 실행 화면 캡쳐입니다.
+
 ![1](https://user-images.githubusercontent.com/50770882/71559940-1f39ad00-2aa7-11ea-8b26-74b00644db6c.PNG)
 ![2](https://user-images.githubusercontent.com/50770882/71559941-206ada00-2aa7-11ea-88a3-6cac14845275.PNG)
 ![3](https://user-images.githubusercontent.com/50770882/71559942-219c0700-2aa7-11ea-8289-c7fa4df28932.PNG)
